@@ -2,5 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 echo "starting eslint & prettier"
-# pwd
+pwd
 # npm run lint
